@@ -3,7 +3,7 @@ hackguerilla
 
 Hack Guerrilla: herramientas digitales libres para activismos
 
-
+http://pad.partidopirata.com.ar/p/laboratorioherramientasdigitalesactivismos
 
 ## Fanzines
 
