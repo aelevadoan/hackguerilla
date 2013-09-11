@@ -12,9 +12,10 @@
 * la importancia del interfase: comparación de interfases de Facebook y Lorea en capturaciones de pantallas
 
 * reseñas sobre
- >> Lorea: ¡Redes sociales del pueblo y para el pueblo!
- >> Pidgin, IRC, OTR
- >> Cryptocat
+ 1.  Lorea: ¡Redes sociales del pueblo y para el pueblo!
+ 2. Pidgin OTR
+ 3. jit.si,xchat 
+ 4. ryptocat c/jabber pasado or TOR
 
 * datos de contacto, IRC del Lab (o quizás hacer otro #Hackguerrilla, posibilidad de armar talleres, instrucciones para descargar el fanzine y hackearlo...
 
