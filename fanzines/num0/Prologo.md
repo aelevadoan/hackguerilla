@@ -5,6 +5,9 @@ La sociedad deviene (en) red. En las últimas déca-
 das, formas de organización nacidas en internet se
 multiplican y extienden por el territorio urbano,
 generando nuevas topologías, técnicas y políticas.
+Asimismo el poder crea nuevas formas de represion,
+vigilancia y sometimiento para intentar mantener
+su supremacia.
 
 >> la silenciada revolución islandesa, la celebrada
 primavera árabe y los movimientos como el #15M
@@ -46,7 +49,8 @@ termediarios (ni guetos: militancia de base, sociedad
 civil, centros sociales).
 
 Esto genera dos procesos fundamentales: la capa-
-cidad de autorregulación de la actividad productiva en común y distribuida que se hereda del funcio-
+cidad de autorregulación de la actividad productiva en 
+común y distribuida que se hereda del funcio-
 namiento rizomático de la red, y la multiplicación
 vírica de nodos y nuevos sistemas-red.
 
@@ -80,8 +84,10 @@ ser útiles para organizarse. Las corporaciones que las
 poseen (en términos económicos) no van a apoyar
 esa revolución -de hecho, se verán presionados por los gobiernos
 para censurar comunicaciones que pongan en peligro
-su hegemonía. Hace falta otras redes
-para organizar la indignación como ha sido Lorea. 
+su hegemonía o entregar información de los usuarios
+que les permita vigilarlos y perseguirlos. 
+Hace falta otras redes para organizar la indignación que permitan
+otras dinamicas, seguras y bajo nuestro control como ha sido Lorea. 
 
 
 FB es un sitio web con servicios para
@@ -170,14 +176,14 @@ está condicionado a la aceptación de unas condi-
 ciones y términos de uso que, más allá de atentar
 contra la privacidad de lxs usuarixs, suponen la
 cesión impuesta, la expropiación, de toda nuestra
-productividad inmaterial en la red, hasta el punto
+productividad cognitiva en la red, hasta el punto
 de no tener ningún derecho sobre esta, al mismo
-tiempo se que lucran de la gestión y explotación de
+tiempo de que lucran de la gestión y explotación de
 nuestros datos y actividad sin que haya un retorno
 social o retribución.
 
-Rompoer la dico-
-tomía calle-red: la acción política camina a la vez
+Rompoer la dicotomía calle-red: 
+la acción política camina a la vez
 entre ambos territorios, inseparables, en permanente
 retroalimetación, en proceso simbiótico vivo. La red
 ha reducido los costes de participación de la acción
